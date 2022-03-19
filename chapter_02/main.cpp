@@ -1,6 +1,10 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    using namespace std;
+    cout << "Hello, World!" << endl;
+    cout << "Come up and C++ me some time" <<endl;
+    cout << "You wouldn't regret it" <<endl;
+
     return 0;
 }
